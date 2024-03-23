@@ -1,0 +1,14 @@
+D:\JurnalMOD5\JurnalMOD5\bin\Debug\net8.0\JurnalMOD5.exe
+D:\JurnalMOD5\JurnalMOD5\bin\Debug\net8.0\JurnalMOD5.deps.json
+D:\JurnalMOD5\JurnalMOD5\bin\Debug\net8.0\JurnalMOD5.runtimeconfig.json
+D:\JurnalMOD5\JurnalMOD5\bin\Debug\net8.0\JurnalMOD5.dll
+D:\JurnalMOD5\JurnalMOD5\bin\Debug\net8.0\JurnalMOD5.pdb
+D:\JurnalMOD5\JurnalMOD5\obj\Debug\net8.0\JurnalMOD5.GeneratedMSBuildEditorConfig.editorconfig
+D:\JurnalMOD5\JurnalMOD5\obj\Debug\net8.0\JurnalMOD5.AssemblyInfoInputs.cache
+D:\JurnalMOD5\JurnalMOD5\obj\Debug\net8.0\JurnalMOD5.AssemblyInfo.cs
+D:\JurnalMOD5\JurnalMOD5\obj\Debug\net8.0\JurnalMOD5.csproj.CoreCompileInputs.cache
+D:\JurnalMOD5\JurnalMOD5\obj\Debug\net8.0\JurnalMOD5.dll
+D:\JurnalMOD5\JurnalMOD5\obj\Debug\net8.0\refint\JurnalMOD5.dll
+D:\JurnalMOD5\JurnalMOD5\obj\Debug\net8.0\JurnalMOD5.pdb
+D:\JurnalMOD5\JurnalMOD5\obj\Debug\net8.0\JurnalMOD5.genruntimeconfig.cache
+D:\JurnalMOD5\JurnalMOD5\obj\Debug\net8.0\ref\JurnalMOD5.dll
